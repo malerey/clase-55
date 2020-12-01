@@ -12,4 +12,6 @@ Docs de Bulma: https://bulma.io/documentation/
 
 La idea es que identifiques los componentes y los busques en la documentación de Bulma para poder hacer una web parecida a esta (no te preocupes por los colores):
 
+https://sinuous.netlify.app/
+
 ![Modelo](https://i.imgur.com/r6ZopXr.png)
